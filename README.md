@@ -1,4 +1,4 @@
-![Header Image](https://media.licdn.com/dms/image/D5616AQHXJxYYfcF3wQ/profile-displaybackgroundimage-shrink_350_1400/0/1697644538618?e=1703721600&v=beta&t=hfSFXtK7WqIqgr6jR8PA9GyRthfKECkFFyxjK7KG2Ug)
+![Header Image](https://www.linkedin.com/in/kkhammadali/overlay/background-image/)
 
 ## 👨‍💻 Skills
 ![Java](https://img.shields.io/badge/Java-Intermediate-blue?style=for-the-badge&logo=java)
