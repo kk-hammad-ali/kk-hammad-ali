@@ -1,5 +1,3 @@
-![Header Image](https://media.licdn.com/dms/image/D5616AQHXJxYYfcF3wQ/profile-displaybackgroundimage-shrink_350_1400/0/1697644544828?e=1726704000&v=beta&t=aI7kbTIDnO9PY-BEk3Flk6IyQgiyP9lYiqt97VpsaWs)
-
 ## 👨‍💻 Skills
 ![Java](https://img.shields.io/badge/Java-Intermediate-blue?style=for-the-badge&logo=java)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-Intermediate-green?style=for-the-badge)
