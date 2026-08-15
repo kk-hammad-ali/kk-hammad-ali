@@ -350,26 +350,6 @@ I'm currently focused on becoming a stronger **Full-Stack Software Engineer** wi
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kk-hammad-ali&show_icons=true&theme=tokyonight&hide_border=true" alt="Hammad Ali GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kk-hammad-ali&theme=tokyonight&hide_border=true" alt="Hammad Ali GitHub Streak" />
-</p>
-
----
-
-# 🧩 Most Used Technologies
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kk-hammad-ali&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 # 🌐 Connect With Me
 
 I'm always interested in connecting with developers, engineers, founders, recruiters and technology teams.
